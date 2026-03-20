@@ -1,0 +1,159 @@
+{
+  "signals": [
+    {
+      "id": "sig_001",
+      "text": "This is completely unacceptable. I've been waiting 6 weeks for my claim to be processed and nobody can tell me what's happening. I want this treated as a formal complaint.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_002",
+      "text": "I need to speak to a manager immediately. Your advisor gave me incorrect information about my policy excess and now I'm \u00a3500 out of pocket. This needs to be escalated.",
+      "channel": "phone"
+    },
+    {
+      "id": "sig_003",
+      "text": "I've called four times now about the same issue. Each time I'm told it will be resolved within 48 hours. It's been three weeks. I expect a full investigation into why this keeps happening.",
+      "channel": "phone"
+    },
+    {
+      "id": "sig_004",
+      "text": "I want a full refund. The product you sold me was described as having features it clearly doesn't have. I feel completely misled and I want my money back.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_005",
+      "text": "I'm really struggling to understand my latest statement. The charges don't seem to match what I was told when I signed up. I'm on a fixed income and this is causing me a lot of worry.",
+      "channel": "webchat"
+    },
+    {
+      "id": "sig_006",
+      "text": "I've been a loyal customer for 15 years and I've just seen that new customers are getting a much better rate than me. It doesn't feel right that my loyalty counts for nothing.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_007",
+      "text": "Honestly, I'm at my wit's end. My mother is 82 and can't use your app. She called your helpline and was told everything is online now. She doesn't have internet. What is she supposed to do?",
+      "channel": "social_media"
+    },
+    {
+      "id": "sig_008",
+      "text": "I appreciate you looking into this, but I've now received three different answers from three different people about whether I'm covered. I just need clarity \u2014 it's been really stressful not knowing.",
+      "channel": "webchat"
+    },
+    {
+      "id": "sig_009",
+      "text": "I tried to cancel my policy online but there's no option. I called and was on hold for 45 minutes before giving up. I tried the webchat and got disconnected. I just want to cancel.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_010",
+      "text": "Thank you for your help so far. I just wanted to follow up \u2014 it's been about a month since my claim and I haven't heard back. I'm sure it's in progress but just wanted to check as I'm getting a bit anxious about it.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_011",
+      "text": "Hi there, hope you're well. I noticed a small discrepancy on my account \u2014 I seem to have been charged twice for my March premium. Could you possibly look into it when you get a chance? No rush, but would be good to get it sorted.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_012",
+      "text": "Why is your website SO SLOW today?! I just need to download my tax certificate and it keeps timing out. Is there maintenance happening??",
+      "channel": "social_media"
+    },
+    {
+      "id": "sig_013",
+      "text": "I can't believe the premiums for young drivers these days. Just got quoted \u00a33,200 for my son's first car. Absolutely mad. Is there anything that can bring it down?",
+      "channel": "webchat"
+    },
+    {
+      "id": "sig_014",
+      "text": "Hi, could you send me a copy of my policy documents? I seem to have misplaced mine. Thanks.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_015",
+      "text": "I'd like to add my partner to my home insurance policy. Can you tell me what information you'll need from them?",
+      "channel": "phone"
+    },
+    {
+      "id": "sig_016",
+      "text": "Just wanted to say thanks to Sarah in your claims team \u2014 she was really helpful and patient walking me through the process. Great service.",
+      "channel": "social_media"
+    },
+    {
+      "id": "sig_017",
+      "text": "I'm a bit disappointed that the renewal price went up by 20% when I haven't made any claims. I'll probably shop around this year.",
+      "channel": "email",
+      "note": "Borderline \u2014 expressing dissatisfaction but not clearly expecting resolution. Could reasonably be classified either way."
+    },
+    {
+      "id": "sig_018",
+      "text": "Your app crashed again when I tried to submit my claim photos. This is the third time. I've given up and will post them instead.",
+      "channel": "webchat",
+      "note": "The customer has found a workaround and isn't explicitly asking for resolution. But repeated failures + giving up could signal a complaint."
+    },
+    {
+      "id": "sig_019",
+      "text": "I see you've changed the terms on the savings account. The new rate is quite a bit lower. I understand rates change but it would have been nice to have more notice.",
+      "channel": "email",
+      "note": "Feedback, not a complaint \u2014 acknowledges the change is within rights, just wishes for better communication. But some might classify as implicit complaint."
+    },
+    {
+      "id": "sig_020",
+      "text": "Been trying to get through to someone about my travel insurance claim since I got back from holiday. Left three voicemails, sent two emails. Starting to wonder if anyone actually works there.",
+      "channel": "social_media"
+    },
+    {
+      "id": "sig_021",
+      "text": "I'm going through chemotherapy at the moment and I really can't deal with this right now. The letter says I owe \u00a3240 but I've already paid. Please, I just need someone to sort this out for me.",
+      "channel": "phone"
+    },
+    {
+      "id": "sig_022",
+      "text": "My husband passed away last month and I need to update the joint account. I called last week and was told I need a death certificate \u2014 I've sent it twice now and nothing has changed. I don't know what else to do.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_023",
+      "text": "Where do I even start. First you lost my claim paperwork. Then the replacement documents had someone else's name on them. Then I was told my claim was denied based on information I never provided. I want answers and I want compensation for the stress this has caused me.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_024",
+      "text": "I was told my excess would be \u00a3100 but I've been charged \u00a3350. On top of that, the repair garage you recommended did a terrible job and I now need to get it redone elsewhere at my own cost. And nobody returns my calls.",
+      "channel": "email"
+    },
+    {
+      "id": "sig_025",
+      "text": "Disgusting service.",
+      "channel": "social_media"
+    },
+    {
+      "id": "sig_026",
+      "text": "Can I change my direct debit date?",
+      "channel": "webchat"
+    },
+    {
+      "id": "sig_027",
+      "text": "Worst company ever. Moving to [competitor] first chance I get.",
+      "channel": "social_media"
+    },
+    {
+      "id": "sig_028",
+      "text": "Thanks for sorting that out so quickly! Really appreciate it.",
+      "channel": "webchat"
+    },
+    {
+      "id": "sig_029",
+      "text": "I'm not happy about the wait time but I understand you're busy. Just hoping it gets sorted soon.",
+      "channel": "webchat",
+      "note": "Expresses dissatisfaction but explicitly shows understanding. Most would not classify as complaint."
+    },
+    {
+      "id": "sig_030",
+      "text": "Your terms and conditions are 47 pages long. I have a law degree and I struggled to understand them. How is a normal customer supposed to know what they're agreeing to?",
+      "channel": "social_media"
+    }
+  ],
+  "total": 30
+}
